@@ -1,6 +1,6 @@
 # Unity-tutorialgame
-Game done by following a youtube tutorial for unity/blender
-video: https://www.youtube.com/watch?v=boNtcfAEZo0
+Game done by following a youtube tutorial for unity/blender.
+Video showing features: https://www.youtube.com/watch?v=boNtcfAEZo0
 
 ![asdasdsadasda](https://user-images.githubusercontent.com/61183450/231156236-004274c4-c408-48f3-82a2-5483e2c66f8f.png)
 ![sadsadsadasdsadsa](https://user-images.githubusercontent.com/61183450/231156238-28f86965-0653-48b8-b465-2eb4ac05eb6f.png)
